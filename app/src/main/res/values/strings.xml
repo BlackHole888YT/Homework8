@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework8</string>
+    <string name="loading">Loading...</string>
+    <string name="secon_activity">Secon Activity</string>
+</resources>
